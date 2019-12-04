@@ -1,0 +1,3 @@
+checkout 切換分支
+merge 合併 
+rebase 轉接
