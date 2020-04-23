@@ -1,9 +1,11 @@
-checkout 切換分支
+20200423
+checkout 切換增加分支
 merge 合併 
 rebase 轉接
 reset  還原
 
 1.checkout
 2.commit
+
 3.merge or rebase 
-4.push
+4.push 將其他推到master?
