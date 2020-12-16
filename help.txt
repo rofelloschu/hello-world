@@ -7,5 +7,7 @@ reset  還原
 1.checkout
 2.commit
 
-3.merge or rebase 
-4.push 將其他推到master?
+x3.merge or rebase 
+x4.push 將其他推到master?
+
+3.push 其他
