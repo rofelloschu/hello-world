@@ -4,10 +4,15 @@ merge 合併
 rebase 轉接
 reset  還原
 
+new
+1.commit
+
+更新
 1.checkout
 2.commit
 
 x3.merge or rebase 
 x4.push 將其他推到master?
 
-3.push 其他
+3.選擇gitlab  github merge into master 如果有分支才需要
+4.push 其他gitlab github
